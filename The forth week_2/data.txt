@@ -1,0 +1,446 @@
+360
+Aalto University
+Abine Inc.
+ACCESS CO., LTD.
+Accessibility Foundation
+AccessibilityOz
+Accessible Media Inc
+Accreditrust Technologies, LLC
+ADASure
+Adesis Netlife S.L.
+Adobe
+Afilias Limited
+Agency for Digitisation
+Agenzia per l'Italia Digitale
+Agora.io
+Airbnb Inc
+Akamai Technologies
+AKASHA Foundation
+AKEA Web Solutions, LLC
+Alfasado, Inc.
+Algebraix Data Corporation
+Alibaba Group
+Altova GmbH
+AMAC Accessibility Solutions & Research Center
+Amazon
+Ambrosus Technologies 
+American Express Company
+American Printing House for the Blind, Inc
+AnzoGraph by Cambridge Semantics
+The Apache Software Foundation
+Apple, Inc.
+APTPOD, Inc.
+association BrailleNet
+AT&T
+AudioEye, Inc
+Australian National University
+Ayuntamiento de Zaragoza
+Baidu, Inc.
+Bank of America
+Barclays Bank UK PLC
+BarrierBreak Technologies
+Basque Government - Irekia
+Baycloud Systems
+BBVA
+Becker-Carroll
+Beem It
+Beijing Knownsec Information Technology Co., Ltd.
+Benetech
+Best Innovation Group
+Beyond Perspective Solutions ltd
+BFO
+Bitmovin
+Blackstone Audio, Inc.
+Blockstream
+BlueSnap
+Bocoup
+The Boeing Company
+Boersenverein des Deutschen Buchhandels e.V.
+Book Industry Study Group
+Brave Software Inc.
+Bread
+Brightcove
+BrightLink
+British Broadcasting Corporation
+buildAR
+Bureau of Internet Accessibility
+C-DAC
+CA Technologies
+Cable Television Laboratories Inc
+China Academy of Information and Communications Technology
+callstats.io
+CANTON CONSULTING
+Capital One Financial
+Cardano Foundation
+Caruso GmbH
+Catenoid, Inc.
+Center for Democracy and Technology
+CWI
+Centinal, LLC
+Centre for Inclusive Design
+CERN
+Certus Cybersecurity Solutions LLC
+China Electronics Standardization Institute
+China Mobile Communications Corporation
+China Shandong Jining Jizhi Technology Ltd
+Chinese Academy of Sciences
+Cisco
+CloudDeep 云深互联（北京）科技有限公司
+Coil Technologies, Inc.
+Colendi
+Collaborative Knowledge Foundation
+Comcast Corporation
+Conexxus
+ConsenSys
+Consumer Technology Association(tm) (CTA)
+CoSMo Software Consulting Pte Ltd
+Credly
+CSIRO
+Cyxtera Technologies, Inc.
+DAISY Consortium
+Danube Tech GmbH
+Data Trading Alliance
+DDS, Inc.
+Defense Information Systems Agency (DISA)
+Department of Human Services
+Department of Information Technology, Government of India
+Deque Systems, Inc.
+Design Inc.
+Deutsche Nationalbibliothek (DNB)
+Deutsche Telekom AG
+Dfinity Stiftung
+Digital Bazaar
+Digital Comic Association
+Digital Heaven Information&Technology Co.,Ltd.
+Digital Signage Consortium
+Digital Transformation Agency
+Discover Financial Services LLC
+Disruptive Innovations
+DMAI, Inc.
+Dolby Laboratories, Inc.
+Dreamlab Technologies AG
+DRM inside
+Dublin Core Metadata Initiative (DCMI)
+DWANGO Co., Ltd
+Dynatrace LLC
+Dyno Mapper
+Earth Science Data Systems Program
+Ecole Mohammadia d'Ingenieurs Rabat (EMI)
+Ecole Superieure Polytechnique de Dakar
+EDRLab
+Educational Testing Service
+Eindhoven University of Technology
+Elastos Foundation
+Eldarion, Inc.
+Electronic Book Publishers Association of Japan
+Electronics and Telecommunications Research Institute (ETRI)
+Ephox Corporation
+ERICSSON
+Espial Group Inc.
+Ethereum Foundation
+European Broadcasting Union (EBU-UER)
+Evernym
+Evident Point Software
+EVRYTHNG
+eyeo GmbH
+Facebook
+FactsMission
+Federal Reserve Bank of Minneapolis
+FinanzNachrichten.de
+Fondazione Bruno Kessler
+Fondazione LIA
+Forschungszentrum Informatik (FZI)
+Foundation for Research and Technology - Hellas(FORTH)
+Fraunhofer Gesellschaft
+Fronteers
+FSTC (Financial Services Technology Consortium)
+Fujitsu Limited
+Fundacion BiscayTIK - BiscayTIK Fundazioa
+Fundacion CTIC
+Fundación ONCE
+Future Technology Laboratories Inc.
+GENIVI Alliance
+Geonovum
+Geoscience Australia
+Geotab
+German Research Center for Artificial Intelligence (DFKI) Gmbh
+GitStar
+globaliD
+Gobierno del Principado de Asturias
+Google, Inc.
+Gooroomee Co., Ltd.
+Groupement des Cartes Bancaires
+GS1
+Hachette Livre
+Hawkeworks LLC
+Hilfsgemeinschaft der Blinden und Sehschwachen ?sterreichs
+Hitachi, Ltd.
+HM Government
+Hochschulbibliothekszentrum des Landes NRW
+Huawei
+Hypothes.is Project
+IAB Technology Laboratory, Inc.
+IBM Corporation
+Igalia
+Imec vzw
+Imperial College of Science, Technology and Medicine
+INCA Internet Co.,Ltd.
+Info Tech, Inc.
+Informatie Vlaanderen
+Information Technology Center for National Science & Technology Infrastructure
+Ingenico 
+INNOVIMAX
+Inrupt Inc.
+INSIGHT - The Centre for Data Analytics
+Institut National de Recherche en Informatique et en Automatique (INRIA)
+INSTITUT TELECOM
+Instituto de Inteligência Cibernética do Brasil
+Inswave Systems Co., Ltd.
+Intel Corporation
+Inter-American Development Bank; Knowledge, Innovation and Communications Sector (KIC)
+International Forecourt Standards Forum
+Internet Academy
+Internet Research Institute, Inc.
+Intive
+Intopia
+IoT Connctd GmbH
+IRT Institut fuer Rundfunktechnik
+ISO 20022 Registration Authority
+ITConcepts Professional GmbH
+J. Paul Getty Trust
+Jaguar Land Rover
+Japan Registry Services Co., Ltd.
+JCB CO., LTD.
+Johns Hopkins Institute for Clinical and Translational Research
+Jolocom
+JS Foundation
+JW Player
+Kaiser Permanente
+KDDI CORPORATION
+KINGS COLLEGE LONDON
+Klarna
+Know Your Customer Limited
+Knowbility
+Korea Electronics Technology Institute (KETI)
+Korea Internet Professionals Association(KIPFA)
+Lawrence Berkeley National Laboratory
+Learning Machine, Inc.
+Lepidum Company Limited
+Letsee, Inc.
+LG Electronics
+Libra
+Library of Congress
+Logius
+Loongson Technology Corporation Limited
+Los Alamos National Laboratory
+Lyra Network
+Macmillan Learning
+MADA Center, Qatar
+Magic Leap, Inc.
+MarkLogic
+Mastercard Incorporated 
+Mattr Limited
+Maxthon International Limited
+Mayo Clinic
+Media Access Australia
+MEDIA DO HOLDINGS Co., Ltd.
+Meedan
+Memect Technology Co. Ltd. 北京文因互联科技有限公司
+Meraka Institute
+Merchant Advisory Group
+Met Office
+MetaX 
+Microsoft Corporation
+MIMOS BHD
+Ministerio de Hacienda y Administraciones Públicas
+Miskan Environmental  Consultation
+MITRE Corporation
+Mitsubishi Electric Corporation
+Mitsue-Links Co., Ltd.
+Mobiletta
+Monegraph
+Monohm Inc.
+Monotype
+Motion Picture Association of America, Inc.  
+MovieLabs
+Mozilla Foundation
+MTA SZTAKI
+NACHA - The Electronic Payments Association
+Nagwa Limited
+Nanjing University
+The National Archives
+National Association of Broadcasters
+National Federation of the Blind
+National Film Board of Canada
+National Institute of Standards and Technology (NIST)
+NCSC
+NEC Corporation
+Netflix Inc.
+New Relic, Inc.
+Newphoria Corporation
+NewSky Security
+NHK (Japan Broadcasting Corporation)
+NIC.br - Brazilian Network Information Center
+Nice Sophia Antipolis University
+Nippon Telegraph & Telephone Corp. (NTT)
+Nok Nok Labs
+Nokia Corporation
+Nomensa
+Nominet
+Norwegian Library of Talking Books and Braille
+NYC Department of Education
+OASIS (Organization for the Advancement of Structured Information Standards)
+Object Management Group, Inc. (OMG)
+ObjectTech Group
+OCLC (Online Computer Library Center, Inc.)
+Office of the Government Chief Information Officer (OGCIO)
+Onfido
+Ontotext
+Open Banking Limited
+Open Geospatial Consortium
+The Open University
+Opendi AG
+OpenLink Software Inc.
+Openstream, Inc.
+Opera Software AS
+Oracle Corporation
+Ordnance Survey
+Oxlin
+Panasonic Corporation
+PayCert
+Payfone, Inc.
+Payments Canada
+PayPal
+Pearson plc
+Ping Identity
+PLANMEDIA, MEX S.A. DE C.V.
+Pluto VR
+Privakey, Inc.
+Privowny
+Profium Ltd.
+Prometheo
+Pundi X
+QUDT
+Qwant
+Rakuten, Inc.
+Reach
+Recording Industry Association of America
+Refinitiv
+Regional State Administrative Agency for Southern Finland
+REMME LTD
+RemoteMonster
+Ricoh Company, Ltd.
+Ripple
+RISE Research Institutes of Sweden AB
+Royal National Institute of Blind People (RNIB)
+Salesforce
+Samsung Electronics Co., Ltd.
+Santillana Global, S.L.
+SAP SE
+SAT Information Corporation
+Sauce Labs
+Scenarex Inc.
+Search Engine Optimization Inc
+SecureKey
+Sefonsoft
+Shenzhen Institute of Information Technology
+Shopify
+SHUEISHA Inc.
+Shukun (Beijing) Network Technology Co., Ltd.
+SIA
+Siemens AG
+Siteimprove
+Skynav, Inc.
+SmartThings, Inc.
+SOASTA
+SoftBank Corp.
+Software AG
+Soluciones Integrales Ver S.A.S.
+Sony Corporation
+University of Southampton
+Southwest University of Science and Technology(SWUST)
+Sovrin Foundation 
+Spec-Ops
+SPORTTOTAL AG
+SSB BART Group
+Standard Treasury
+Stanford University
+Stiftelsen for internetinfrastruktur (IIS)
+Stony Brook University
+Stripe
+Submit Press Release 123 
+SURF net bv
+SURROUND Australia Pty Ltd
+Swirrl
+Syncro Soft
+Sysemia
+Taiwan Digital Publishing Forum
+Tampere University
+Telenor
+Temasys Communications Pte Ltd
+Tencent
+TetraLogical
+Texthelp Ltd
+The Clearing House
+The Japan Commercial Broadcasters Association
+The Paciello Group, LLC
+The Rebus Foundation
+The Scottish Government
+Thinktecture
+Thomson Reuters Corp.
+TopQuadrant
+Toshiba Corporation
+Touch coffee ltd
+Transmute
+Trinity College Dublin (ADAPT Centre)
+Trust1Team
+Tyfone, Inc.
+Universidad Politécnica de Madrid
+Universidad Tecnica Particular de Loja
+Universidade de Sao Paulo
+Universitat Autònoma  de Barcelona
+Universitat Politècnica de Catalunya
+Université de Lyon
+Universities Admissions Centre
+University of Colorado Boulder
+University of Edinburgh
+University of Illinois at Urbana-Champaign
+University of Michigan
+University of Oxford
+University of Zagreb, Faculty of Organization and Informatics
+User1st
+Verance Corporation
+Verimatrix, Inc.
+Verizon Media
+Viacom inc.
+Vinli, Inc.
+Visa
+Vision Australia
+VistaTEC
+Visteon Corporation
+Volkswagen AG
+Volvo Cars
+Voyager Japan, Inc.
+Vrije Universiteit
+W. W. Norton & Company
+The Walt Disney Company
+Waterloo Maple Inc.
+Web Key IT Pty Ltd
+Web3D Consortium
+Wells Fargo Bank N.A.
+Wendell Wilson Consulting, LLC
+White Ops, Inc.
+Wikimedia Foundation
+Wiley
+WIRIS Science
+Working Ontologist LLC
+Worldpay
+WU (Wirschaftsuniversit?t Wien) - Vienna University of Economics and Business
+Wymsical Inc
+Xiaomi
+Yahoo Japan Corporation
+Yiyue Info. Tech. (Beijing) Co. Ltd (Moonalpha Tech)
+Yoast
+Yubico
+Zhejiang University
+ZNO Labs, Inc.
