@@ -1,0 +1,7 @@
+D:\C和C++程序文件夹\Myproject\Myproject\bin\Debug\Myproject.exe
+D:\C和C++程序文件夹\Myproject\Myproject\bin\Debug\Myproject.pdb
+D:\C和C++程序文件夹\Myproject\Myproject\obj\x86\Debug\Myproject.Properties.Resources.resources
+D:\C和C++程序文件夹\Myproject\Myproject\obj\x86\Debug\Myproject.csproj.GenerateResource.Cache
+D:\C和C++程序文件夹\Myproject\Myproject\obj\x86\Debug\Myproject.exe
+D:\C和C++程序文件夹\Myproject\Myproject\obj\x86\Debug\Myproject.pdb
+D:\C和C++程序文件夹\Myproject\Myproject\obj\x86\Debug\Myproject.Form1.resources
